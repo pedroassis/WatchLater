@@ -1,0 +1,24 @@
+
+
+.face {
+    border-radius: 30px;
+    border: 1px solid #ddd;
+    width: 56px;
+    height: 56px;
+    margin: 8px 16px 8px 16px;
+    background-size: cover;
+}
+
+.ellipsis{
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 1;
+}
+
+.box-32{
+    height: 32px;
+    width: 32px;
+    margin: 0;
+}
